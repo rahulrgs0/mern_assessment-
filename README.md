@@ -1,5 +1,7 @@
 # Welcome to my portfolio project
-**Deploy at:** [https://quanblue.herokuapp.com/](https://quanblue.herokuapp.com/)
+
+###Rahul
+
 
 ## Technology stack
 **Tech stack:** MERN (**M**ongoDB - **E**xpressJS - **R**eactJS - **N**odeJS)
@@ -34,19 +36,6 @@ npm install
     npm run start-client 
     ```
 
-## Fetch data (testing)
-I have deploy server for you can test  
-> Get developer skill  
-> https://quan-portfolio-server.herokuapp.com/api/dev-skill  
-
-> Get design skill  
-> https://quan-portfolio-server.herokuapp.com/api/des-skill  
-
-> Get toolkit  
-> https://quan-portfolio-server.herokuapp.com/api/toolkit  
-
-> Get education  
-> https://quan-portfolio-server.herokuapp.com/api/education  
 
 ## Deploy to Heroku
 ```sh
