@@ -37,13 +37,7 @@ npm install
     ```
 
 
-## Deploy to Heroku
-```sh
-git add .
-git commit -m "update application"
-heroku git:remote -a quanblue
-git push heroku master
-```
+
 
 
 
