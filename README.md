@@ -1,6 +1,6 @@
 # Welcome to my portfolio project
 
-###Rahul
+### by Rahul
 
 
 ## Technology stack
